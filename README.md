@@ -42,11 +42,13 @@
 ### Design Tools
 ![seo](https://img.shields.io/badge/seo-00C4CC?style=for-the-badge&logo=google&logoColor=white)
 
+## 📈 Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsweichler&theme=blue-green">
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://nils-weichler.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-weichler-25427114a/)
 [![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nilsweichler)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsweichler&theme=blue-green">
