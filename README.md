@@ -5,6 +5,9 @@
 🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated** [**Freelancer**](https://www.fiverr.com/nilsweichler) on _fiverr_. I am also Pursuing my Bachelor in **Information Technology & Design** and will graduate in 2022-2023.
 
 
+## 💻 Current Project
+
+[![jobremote](https://img.shields.io/badge/JobRemote-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jobremote.vercel.app)
 
 ## 🛠️ Skills
 
