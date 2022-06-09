@@ -23,6 +23,9 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+### Back-End Development
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 ### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
@@ -39,7 +42,7 @@
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### Design Tools
+### Other
 ![seo](https://img.shields.io/badge/seo-00C4CC?style=for-the-badge&logo=google&logoColor=white)
 
 ## 📈 Stats
