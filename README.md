@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated** [**Freelancer**](https://www.fiverr.com/nilsweichler) on _fiverr_. I am also Pursuing my Bachelor in **Information Technology & Design** and will graduate in 2022-2023.
+🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated** [**Freelancer**](https://www.fiverr.com/nilsweichler) on _fiverr_.
 
 
 ## 💻 Current Project
@@ -20,11 +20,10 @@
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![vue](https://img.shields.io/badge/Vuejs-00C180?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
-![nuxt](https://img.shields.io/badge/Nuxtjs-022A34?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Back-End Development
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,7 +37,6 @@
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![strapi](https://img.shields.io/badge/Strapi-121234?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### Design Tools
