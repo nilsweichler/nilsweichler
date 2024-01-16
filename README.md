@@ -46,9 +46,6 @@
 ### Other
 ![seo](https://img.shields.io/badge/seo-00C4CC?style=for-the-badge&logo=google&logoColor=white)
 
-## 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsweichler&theme=blue-green">
 
 ## 🔗 Links
 
