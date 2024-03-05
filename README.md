@@ -4,11 +4,6 @@
 
 🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated** [**Freelancer**](https://www.fiverr.com/nilsweichler) on _fiverr_.
 
-
-## 💻 Current Project
-
-[![jobremote](https://img.shields.io/badge/JobRemote-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jobremote.vercel.app)
-
 ## 🛠️ Skills
 
 ### Languages
@@ -40,7 +35,6 @@
 ![strapi](https://img.shields.io/badge/Strapi-121234?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### Design Tools
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Other
