@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated** [**Freelancer**](https://www.fiverr.com/nilsweichler) on _fiverr_.
+🎓 I am Nils Weichler, a **Full Stack Web Developer** (specializing in **React/Next.js Applications**) and a **Top Rated Freelancer** on _fiverr & Upwork_.
 
 ## 🛠️ Skills
 
@@ -46,4 +46,5 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://nils-weichler.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-weichler-25427114a/)
 [![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nilsweichler)
+[![upwork](https://img.shields.io/badge/upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=green)](https://www.upwork.com/freelancers/~016252f4b67ece066c?mp_source=share)
 
